@@ -16,7 +16,7 @@ Project inspired by the design of Natalia Lebedeva available on Dribbble. Develo
 [Screens Project](https://dribbble.com/shots/7202830-Meditation-iOS-app-Home-and-Practices-screens)
 
 
-### **Um pouco sobre as ferramentas**
+### Tools
 
 - React Native
 - Expo
