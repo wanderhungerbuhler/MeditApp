@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Fastfeet" title="Fastfeet" src="https://github.com/wanderhungerbuhler/MeditApp/blob/master/.github/meditapp.png" width="700px" height="500" />
+  <img alt="MeditApp" title="MeditApp" src="https://github.com/wanderhungerbuhler/MeditApp/blob/master/.github/meditapp.png" width="900px" height="600" />
 </h1>
 
 <h2 align="center">
