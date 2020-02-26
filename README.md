@@ -1,16 +1,10 @@
 <h1 align="center">
-  <img alt="Fastfeet" title="Fastfeet" src="https://github.com/wanderhungerbuhler/MeditApp/blob/master/.github/meditapp.png" width="300px" />
+  <img alt="Fastfeet" title="Fastfeet" src="https://github.com/wanderhungerbuhler/MeditApp/blob/master/.github/meditapp.png" width="700px" height="500" />
 </h1>
 
 <h2 align="center">
   MeditApp
 </h2>
-
-<h3 align="center">
-  :warning: Etapa 1/4 do Desafio Final :warning:
-</h3>
-
-<p>Esse desafio faz parte do Desafio Final, que é uma aplicação completa (Back-end, Front-end e Mobile) que é avaliada para emissão do Certificado do Bootcamp GoStack!</p>
 
 <blockquote align="center">“I have a dream” - Martin Luther King</blockquote>
 
