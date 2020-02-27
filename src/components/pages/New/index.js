@@ -18,7 +18,7 @@ class New extends Component {
         </View>
 
         <ScrollView showsHorizontalScrollIndicator={false} horizontal={true}>
-            <View style={styles.boxScroll}>
+            <TouchableOpacity style={styles.boxScroll}>
               <ImageBackground source={IconSun} style={{width: 294, height: 125, top: 50, position: 'absolute'}}>
               </ImageBackground>
               <View style={styles.boxDescription}>
@@ -26,9 +26,9 @@ class New extends Component {
                 <Text style={styles.titleBoxScrollDescription}>Daily Calm</Text>
                 <Text style={styles.titleBoxScrollDescriptionTime}>7 steps | 3-11 min</Text>
               </View>
-            </View>
+            </TouchableOpacity>
 
-            <View style={[styles.boxScroll, styles.boxScrollTwo]}>
+            <TouchableOpacity style={[styles.boxScroll, styles.boxScrollTwo]}>
               <ImageBackground source={IconMoon} style={{width: 294, height: 125, top: 50, position: 'absolute'}}>
               </ImageBackground>
               <View style={styles.boxDescription}>
@@ -36,7 +36,7 @@ class New extends Component {
                 <Text style={styles.titleBoxScrollDescription}>Daily Calm</Text>
                 <Text style={styles.titleBoxScrollDescriptionTime}>7 steps | 3-11 min</Text>
               </View>
-            </View>
+            </TouchableOpacity>
         </ScrollView>
       </View>
     );

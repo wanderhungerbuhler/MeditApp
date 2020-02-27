@@ -18,7 +18,7 @@ class Popular extends Component {
         </View>
 
         <ScrollView showsHorizontalScrollIndicator={false} horizontal={true}>
-          <View style={styles.boxScroll}>
+          <TouchableOpacity style={styles.boxScroll}>
             <ImageBackground source={IconTree} style={{width: 100, height: 125, right:20, top: 30, position: 'absolute'}}>
             </ImageBackground>
             <View style={styles.boxDescription}>
@@ -26,9 +26,9 @@ class Popular extends Component {
               <Text style={styles.titleBoxScrollDescription}>Turn down the stress volume</Text>
               <Text style={styles.titleBoxScrollDescriptionTime}>7 steps | 5-11 min</Text>
             </View>
-          </View>
+          </TouchableOpacity>
 
-          <View style={[styles.boxScroll, styles.boxScrollTwo]}>
+          <TouchableOpacity style={[styles.boxScroll, styles.boxScrollTwo]}>
             <ImageBackground source={IconBird} style={{width: 100, height: 125, right:20, top: 30, position: 'absolute'}}>
             </ImageBackground>
             <View style={styles.boxDescription}>
@@ -36,7 +36,7 @@ class Popular extends Component {
               <Text style={styles.titleBoxScrollDescription}>Turn down the stress volume</Text>
               <Text style={styles.titleBoxScrollDescriptionTime}>5 steps | 5-11 min</Text>
             </View>
-          </View>
+          </TouchableOpacity>
         </ScrollView>
       </View>
     );

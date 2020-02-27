@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "MeditApp",
     "slug": "MeditApp",
     "privacy": "public",
     "sdkVersion": "36.0.0",
@@ -26,6 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": ""
+    "description": "Project inspired by the design of Natalia Lebedeva available on Dribbble. Developed by me in React Native.",
+    "githubUrl": "https://github.com/wanderhungerbuhler/MeditApp"
   }
 }

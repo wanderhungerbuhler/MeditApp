@@ -32,6 +32,7 @@ export default function Routes() {
         tabBarOptions={{
           activeTintColor: '#4A80F0',
           inactiveTintColor: '#89909A',
+          showLabel: false,
         }}
       >
         <Tab.Screen name="Home" component={Home} />
